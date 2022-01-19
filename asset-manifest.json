@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/crypto0/static/css/main.4ba89b35.css",
+    "main.js": "/crypto0/static/js/main.506eea23.js",
+    "static/media/header-bg.svg": "/crypto0/static/media/header-bg.5e810b648d9962319b5f.svg",
+    "static/media/mobi.svg": "/crypto0/static/media/mobi.7bd07944c2a2e42b4e7514ed47e394b0.svg",
+    "static/media/johne.svg": "/crypto0/static/media/johne.ae32dbb2cd8b059c4b2dfe43df7bc42b.svg",
+    "static/media/johne2.svg": "/crypto0/static/media/johne2.48f0254664fa07c7ce6e968ab27da039.svg",
+    "static/media/johne1.svg": "/crypto0/static/media/johne1.74c272c3c932cb1cf30bd033008092f8.svg",
+    "static/media/network-img.svg": "/crypto0/static/media/network-img.d4e9b6f679f25e70cfe9665c03b5714f.svg",
+    "static/media/chart1.svg": "/crypto0/static/media/chart1.0c99da6a1816095a20a1571a233fd2ee.svg",
+    "static/media/person.svg": "/crypto0/static/media/person.d49d0cfd22124d770692670d263358ed.svg",
+    "static/media/qr-code.svg": "/crypto0/static/media/qr-code.b7a9b1a082ebeaa8170b54b4d6a185cb.svg",
+    "static/media/architectur.svg": "/crypto0/static/media/architectur.535aaad5807468504652b16ee99ec84b.svg",
+    "static/media/denvers.svg": "/crypto0/static/media/denvers.79ab7d305dd0d54833533980857c3459.svg",
+    "static/media/network-fon.svg": "/crypto0/static/media/network-fon.536e48e27af957807395.svg",
+    "static/media/copixel.svg": "/crypto0/static/media/copixel.13c4f6c54a774367450e42941c3ea7a2.svg",
+    "static/media/alpha.svg": "/crypto0/static/media/alpha.714a8808c27f13c5f71a764e1db8cf03.svg",
+    "static/media/pie-chart.svg": "/crypto0/static/media/pie-chart.af3501f02c30bba9815c8e9f327a2450.svg",
+    "static/media/bitcoin.svg": "/crypto0/static/media/bitcoin.4f481107c024f2db32f13f7b20003774.svg",
+    "static/media/Group.svg": "/crypto0/static/media/Group.a1959da039c2c2f403f6a67df0deb1d5.svg",
+    "index.html": "/crypto0/index.html",
+    "static/media/mobifon.svg": "/crypto0/static/media/mobifon.976c5dc3898b784f7684.svg",
+    "static/media/ethereum.svg": "/crypto0/static/media/ethereum.28753038b04faf07e5984f5d05893b2d.svg",
+    "main.4ba89b35.css.map": "/crypto0/static/css/main.4ba89b35.css.map",
+    "main.506eea23.js.map": "/crypto0/static/js/main.506eea23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba89b35.css",
+    "static/js/main.506eea23.js"
+  ]
+}
