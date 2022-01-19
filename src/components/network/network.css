@@ -1,0 +1,40 @@
+.network {
+    background-image: url('../../images/network-fon.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.network-text .line {
+    margin: 10px 20px;
+}
+.network > div {
+    padding-top: 200px;
+    color: #fff;
+}
+.network-content p {
+    padding-top: 11px;
+    opacity: 0.5;
+}
+.network-content {
+    display: flex;
+    justify-content: space-between;
+}
+.network-content div {
+    width: 500px;
+}
+
+.network-text h2 {
+    font-size: 48px;
+    background-color: #000;
+}
+.network-box {
+    display: flex;
+}
+
+.network-box div {
+    padding-top: 50px;
+    width: 200px;
+}
+.network-box p {
+    opacity: 0.5;
+}

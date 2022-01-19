@@ -1,0 +1,40 @@
+.section-four {
+    padding-top: 132px;
+    display: flex;
+    /* justify-content: space-between; */
+    margin-bottom: 120px;
+}
+
+.section-four-fon {
+    background-image: url('../../images/mobifon.svg');
+    background-repeat: no-repeat;
+}
+.section-four .line {
+    margin: 10px 20px 0 0;
+    width: 94px;
+}
+
+.section-four div {
+    width: 550px;
+}
+.digital-text {
+    font-weight: 500;
+    padding-top: 20px;
+    color: #090f3f;
+    font-size: 48px;
+}
+.digital-text p {
+    padding-top: 45px;
+}
+.digital-p-text {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4f4f4f;
+    padding-top: 20px;
+}
+.btn.btn-four {
+    background-color: #f8ba1a;
+    border: none;
+    margin-top: 20px;
+}

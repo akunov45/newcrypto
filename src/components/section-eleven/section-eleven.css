@@ -1,0 +1,29 @@
+.donate-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.donate {
+    width: 680px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.donate-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 35px rgba(0, 0, 0, 0.15);
+}
+
+.donate-box h5 {
+    font-size: 14px;
+    margin: 20px 20px;
+}
+.donate-box p {
+    margin-top: 10px;
+    font-size: 12px;
+}

@@ -1,0 +1,14 @@
+.team {
+    display: inline-block;
+    justify-content: space-between;
+}
+.team-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.team-card img {
+
+}

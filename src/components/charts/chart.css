@@ -1,0 +1,41 @@
+.group9 {
+    padding-top: 207px;
+}
+.group9 .line {
+    margin: 10px 20px 0 0;
+    width: 94px;
+}
+.group9 h2 {
+    color: #090f3f;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 57px;
+}
+.group10 {
+    margin-top: 40px;
+    margin-right: 30px;
+}
+
+.group10 div {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 15px;
+}
+
+.group10 p {
+    font-family: Hind;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.group10 h3 {
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    color: #CF1257;
+    margin-left: 50px;
+}
